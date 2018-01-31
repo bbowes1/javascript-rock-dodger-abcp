@@ -45,7 +45,7 @@ function checkCollision(rock) {
         dodgerRightEdge)
       
       
-    });
+    );
   }
 }
 
